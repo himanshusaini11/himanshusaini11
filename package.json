@@ -1,0 +1,8 @@
+{
+  "name": "profile-click-badge",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "^1.27.0"
+  }
+}
