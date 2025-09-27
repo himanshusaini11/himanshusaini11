@@ -1,7 +1,7 @@
 ## Hi there I am Himanshu Saini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainihimanshu/) [![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?logo=adobeacrobatreader&logoColor=fff)](https://himanshusaini11.github.io/HSaini_DS.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainihimanshu/) [![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?logo=adobeacrobatreader&logoColor=fff)](https://github.com/himanshusaini11/himanshusaini11/blob/main/HSaini_DS.pdf)
 ---
 
 I’m Himanshu Saini, data scientist. I build end-to-end AI/ML pipelines. Currently I am working on SafeLaneVision (on-device computer vision) and an agentic code-generation debugger. My interests include ML modeling, LLM/agent systems and computer vision. I’m driven to build dependable AI: leveraging LLMs and multi-agent designs to break down complex problems, coordinate tools, and ship end-to-end solutions that work in the real world.
