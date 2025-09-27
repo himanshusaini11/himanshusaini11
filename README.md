@@ -1,5 +1,4 @@
 ## Hi there I am Himanshu Saini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sainihimanshu/) [![Resume](https://img.shields.io/badge/Resume-Download-2ea44f?logo=adobeacrobatreader&logoColor=fff)](https://github.com/himanshusaini11/himanshusaini11/blob/main/HSaini_DS.pdf)
 ---
@@ -27,7 +26,6 @@ I’m Himanshu Saini, data scientist. I build end-to-end AI/ML pipelines. Curren
 ```Learning```
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=fff) ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=fff) ![S3](https://img.shields.io/badge/Amazon%20S3-569A31?logo=amazons3&logoColor=fff) ![Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=awslambda&logoColor=fff)
 
-<>
 <!--
 **himanshusaini11/himanshusaini11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
