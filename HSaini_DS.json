@@ -1,0 +1,176 @@
+{
+  "name": "HIMANSHU SAINI",
+  "contact": {
+    "emails": [
+      "sainih5@outlook.com"
+    ],
+    "phones": [
+      "+1 (905)-920-0443"
+    ],
+    "linkedin": "https://www.linkedin.com/in/sainihimanshu/,",
+    "github": "https://github.com/himanshusaini11/DataScience,",
+    "google_scholar": "https://scholar.google.com/citations?user=OL7M-lwAAAAJ&hl=en",
+    "portfolio": []
+  },
+  "other_urls": [
+    "http://hdl.handle.net/11375/28473.",
+    "https://doi.org/10.1016/j.cpc.2021.108147."
+  ],
+  "headerless_intro": "+1 (905)-920-0443, sainih5@outlook.com, https://www.linkedin.com/in/sainihimanshu/,\nhttps://github.com/himanshusaini11/DataScience, https://scholar.google.com/citations?user=OL7M-lwAAAAJ&hl=en",
+  "sections_raw": {
+    "PROFESSIONAL SUMMARY": "Data scientist with 4+ years of computational research and recent applied ML experience. Built and shipped a real-time\ncomputer-vision system running 10–15 FPS on device and trained high-recall models for semiconductor yield and credit-\nrisk prediction. Strengths in rare-event classification and cost-sensitive evaluation, with proven results: ~75% recall in\nmanufacturing yield and ~77% in credit risk.",
+    "SKILLS": "Programming:          Python, SQL, Bash, MATLAB\nML/Stats:                     Pandas, Scikit-learn, Cross-Validation, Calibration, Class Imbalance (SMOTE, NearMiss), SHAP\nAI:                              TensorFlow, PyTorch, Deep Learning\nData Skills:                Data Wrangling, EDA, ETL, Data Modeling, A/B Testing\nLLMs & Agents:       Agentic system design, LLMs (StarCoder2-3B, CodeLlama-7B)\nMLOps:                     FastAPI, Docker, CI-ready workflows\nVisualization:            Plotly, Dash, Matplotlib, Seaborn, Tableau\nBig Data:                   PySpark, Databricks, Snowflake (working)\nCloud & DevOps:     Azure App Service, Azure Databricks, GitHub",
+    "PROJECTS": "AI: Safe Vision (GitHub)                                                                                                                         Aug 2025 – Present\n•  Built a real-time hazard scoring system to surface under-reported micromobility risks, using a multi-model\nCV  pipeline  (detection,  segmentation,  depth,  video)  and  a  FastAPI  +  Postgres/PostGIS  backend  with\ngeospatial clustering and hazard-aware routing.\n\n•  Shipped a React Native app running ONNX Runtime at 10–15 FPS on device and packaged the stack with\n\nDocker for one-command, reproducible setup.\n\nAgentic AI: Autonomous Code Generation & Debugger (GitHub)                                                 Jun 2025 – Sep 2025\n•  Created a self-debugging code generator that fixes code until tests pass, driven by a docktest repair loop and\n\ncompatible with StarCoder2-3B and CodeLlama-7B-Instruct.\n\n•  Built a Streamlit UI so users can generate code, inspect logs, and download results without touching the CLI.\n\nSECOM Semiconductor Yield Prediction (GitHub)                                                                          Apr 2025 – Jul 2025\n•  Predicted  rare  wafer  failures  (~6.6%  base  rate)  with  ~75%  recall;  engineered  a  leakage-safe  pipeline  and\n\ntrimmed features 590 to 375 to improve robustness.\n\n•  Used SHAP to highlight the top 5 sensors influencing failures and ran cost-sensitive analysis to balance false\n\nnegatives vs. false positives for fab impact.\n\nBank Loan Defaulter Prediction (GitHub)                                                                                       Jan 2025 – Mar 2025\n•  Modeled  default  risk  on  67,463  loans  (35  features,  ~9.25%  defaults)  with  careful  cleaning,  encoding,  and\n\noutlier control.\n\n•  Compared imbalance strategies and models: NearMiss + Random Forest hit ~77% recall; SMOTE + SVC\n\nreached ~51% recall with better balance, reported full precision/recall/AUC.",
+    "EXPERIENCE": "Computational Scientist                                                                                                                      Sep 2019 – Dec 2023\nMcMaster University Hamilton, Canada\n\n•  Built WloopPHI, a Python tool integrated with WIEN2k for Berry-phase and Wilson-loop analysis of Weyl\n\nsemimetals, cutting analysis time 60%.\n\n•  Ran DFT studies to evaluate thermodynamic stability and topological phases of quantum materials,\n\ncontributing to a peer-reviewed publication.\n\n•  Developed a Python module for phase-diagram and convex-hull visualization to predict material\n\nstability, supporting screening for quantum-computing relevant materials.\n\n1\n\nJunior Research Fellow                                                                                                                      Jun 2016 – Jul 2019\nResearch Institute, SRM University Chennai, India\n\n•  Automated high-throughput DFT workflows for 2D materials screening in Python/Bash on HPCC,\n\nparameter sweeps, batch submission, post-processing, and plotting with reproducible scripts.\n\n•  Modeled MoS2/2D heterojunctions and g-C₃N₄ quantum dots; computed band alignment and optoelectronic\n\nproperties to support solar-cell and photodetector studies.",
+    "EDUCATION": "•  MASc, Materials Engineering, McMaster University, Canada (3.88/4)                                   Sep 2019 – Jun 2023\nDoctoral studies 2019–Dec 2022; transferred to MASc.\n•  M.Tech, Nanotechnology, SRM Institute of Science & Technology, India (3.90/4)                 Jul 2014 – Jun 2016",
+    "PUBLICATIONS & AWARDS": "•  Himanshu Saini, “Thesis: Development of ab initio characterization tool for Weyl semimetals and thermodynamic\n\nstability of kagome Weyl semimetals”, McMaster University, 2023. http://hdl.handle.net/11375/28473.\n\n•  Himanshu Saini, Magdalena Laurien, et al., “WloopPHI: A tool for ab initio characterization of Weyl semimetals”,\n\nComputer Physics Communications, 2022. https://doi.org/10.1016/j.cpc.2021.108147.\n\n•  Graduate/Research Scholarship, NSERC, Canada, Sep 2019.\n•  Junior Research Fellowship, Ministry of New & Renewable Energy, India, Jul 2016.\n\n2"
+  },
+  "parsed": {
+    "summary": null,
+    "skills": [
+      "Programming:          Python",
+      "SQL",
+      "Bash",
+      "MATLAB",
+      "ML",
+      "Stats:                     Pandas",
+      "Scikit-learn",
+      "Cross-Validation",
+      "Calibration",
+      "Class Imbalance (SMOTE",
+      "NearMiss)",
+      "SHAP",
+      "AI:                              TensorFlow",
+      "PyTorch",
+      "Deep Learning",
+      "Data Skills:                Data Wrangling",
+      "EDA",
+      "ETL",
+      "Data Modeling",
+      "A",
+      "B Testing",
+      "LLMs & Agents:       Agentic system design",
+      "LLMs (StarCoder2-3B",
+      "CodeLlama-7B)",
+      "MLOps:                     FastAPI",
+      "Docker",
+      "CI-ready workflows",
+      "Visualization:            Plotly",
+      "Dash",
+      "Matplotlib",
+      "Seaborn",
+      "Tableau",
+      "Big Data:                   PySpark",
+      "Databricks",
+      "Snowflake (working)",
+      "Cloud & DevOps:     Azure App Service",
+      "Azure Databricks",
+      "GitHub"
+    ],
+    "education": [
+      {
+        "degree": "Master University",
+        "institution": "University",
+        "dates": "2019",
+        "raw": "•  MASc, Materials Engineering, McMaster University, Canada (3.88/4)                                   Sep 2019 – Jun 2023\nDoctoral studies 2019–Dec 2022; transferred to MASc.\n•  M.Tech, Nanotechnology, SRM Institute of Science & Technology, India (3.90/4)                 Jul 2014 – Jun 2016"
+      }
+    ],
+    "experience": [
+      {
+        "role": "Dec 2023",
+        "company": "Computational Scientist                                                                                                                      Sep 2019",
+        "dates": "Sep 2019 – Dec 2023",
+        "highlights": [
+          "McMaster University Hamilton, Canada"
+        ],
+        "raw": "Computational Scientist                                                                                                                      Sep 2019 – Dec 2023\nMcMaster University Hamilton, Canada"
+      },
+      {
+        "role": "Built WloopPHI, a Python tool integrated with WIEN2k for Berry-phase and Wilson-loop analysis of Weyl",
+        "company": "",
+        "dates": null,
+        "highlights": [],
+        "raw": "•  Built WloopPHI, a Python tool integrated with WIEN2k for Berry-phase and Wilson-loop analysis of Weyl"
+      },
+      {
+        "role": null,
+        "company": null,
+        "dates": null,
+        "highlights": [],
+        "raw": "semimetals, cutting analysis time 60%."
+      },
+      {
+        "role": "Ran DFT studies to evaluate thermodynamic stability and topological phases of quantum materials,",
+        "company": "",
+        "dates": null,
+        "highlights": [],
+        "raw": "•  Ran DFT studies to evaluate thermodynamic stability and topological phases of quantum materials,"
+      },
+      {
+        "role": "reviewed publication.",
+        "company": "contributing to a peer",
+        "dates": null,
+        "highlights": [],
+        "raw": "contributing to a peer-reviewed publication."
+      },
+      {
+        "role": "Developed a Python module for phase-diagram and convex-hull visualization to predict material",
+        "company": "",
+        "dates": null,
+        "highlights": [],
+        "raw": "•  Developed a Python module for phase-diagram and convex-hull visualization to predict material"
+      },
+      {
+        "role": "computing relevant materials.",
+        "company": "stability, supporting screening for quantum",
+        "dates": null,
+        "highlights": [],
+        "raw": "stability, supporting screening for quantum-computing relevant materials."
+      },
+      {
+        "role": null,
+        "company": null,
+        "dates": null,
+        "highlights": [],
+        "raw": "1"
+      },
+      {
+        "role": "Jul 2019",
+        "company": "Junior Research Fellow                                                                                                                      Jun 2016",
+        "dates": "Jun 2016 – Jul 2019",
+        "highlights": [
+          "Research Institute, SRM University Chennai, India"
+        ],
+        "raw": "Junior Research Fellow                                                                                                                      Jun 2016 – Jul 2019\nResearch Institute, SRM University Chennai, India"
+      },
+      {
+        "role": "Automated high-throughput DFT workflows for 2D materials screening in Python/Bash on HPCC,",
+        "company": "",
+        "dates": null,
+        "highlights": [],
+        "raw": "•  Automated high-throughput DFT workflows for 2D materials screening in Python/Bash on HPCC,"
+      },
+      {
+        "role": "processing, and plotting with reproducible scripts.",
+        "company": "parameter sweeps, batch submission, post",
+        "dates": null,
+        "highlights": [],
+        "raw": "parameter sweeps, batch submission, post-processing, and plotting with reproducible scripts."
+      },
+      {
+        "role": "Modeled MoS2/2D heterojunctions and g-C₃N₄ quantum dots; computed band alignment and optoelectronic",
+        "company": "",
+        "dates": null,
+        "highlights": [],
+        "raw": "•  Modeled MoS2/2D heterojunctions and g-C₃N₄ quantum dots; computed band alignment and optoelectronic"
+      },
+      {
+        "role": "cell and photodetector studies.",
+        "company": "properties to support solar",
+        "dates": null,
+        "highlights": [],
+        "raw": "properties to support solar-cell and photodetector studies."
+      }
+    ]
+  }
+}
