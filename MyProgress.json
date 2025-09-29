@@ -1,13 +1,13 @@
 [
   {
     "title": "SECOMSemiconductorYieldPrediction",
-    "repo": "https://github.com/himanshusaini11/DataScience/Project3-SECOMSemiconductorYieldPrediction",
+    "repo": "https://github.com/himanshusaini11/DataScience/master/Project3-SECOMSemiconductorYieldPrediction",
     "status": "done",
     "linkedin_post_flag": true
   },
   {
     "title": "BankLoanDefaultPrediction",
-    "repo": "https://github.com/himanshusaini11/DataScience/Project4-BankLoanDefaultPrediction",
+    "repo": "https://github.com/himanshusaini11/DataScience/master/Project4-BankLoanDefaultPrediction",
     "status": "in-progress",
     "linkedin_post_flag": false
   }
