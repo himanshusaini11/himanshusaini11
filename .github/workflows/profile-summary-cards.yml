@@ -1,14 +1,22 @@
 # .github/workflows/profile-summary-cards.yml
 name: Profile Summary Cards
 on:
-  schedule: [{cron: "0 0 * * *"}] # Runs daily at midnight UTC
+  schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
+
+permissions:
+  contents: write   # allow commits
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: himanshusaini11
+          BRANCH_NAME: main
           UTC_OFFSET: 0
-          THEME: github_dark
+          AUTO_PUSH: true
+          # THEME is not a valid input; choose theme via image path in README
