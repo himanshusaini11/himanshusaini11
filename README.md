@@ -4,6 +4,20 @@
 <!--[![GitHub Profile Views](https://komarev.com/ghpvc/?username=himanshusaini11&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/himanshusaini11)-->
 [![LinkedIn](/badges/linkedin-badge.svg)](https://www.linkedin.com/in/sainihimanshu/) [![Resume](/badges/resume-badge.svg)](https://github.com/himanshusaini11/himanshusaini11/blob/main/HSaini_DS.pdf)
 ---
+<div align="center">
+
+  <h3>Himanshu Saini — Aspiring Data Scientist / ML Engineer</h3>
+
+  <ul style="list-style-type: none; padding: 0;">
+    <li>- Build end-to-end ML/AI pipelines from data to deployment</li>
+    <li>- Current: SafeLaneVision (on-device computer vision), agentic code-generation debugger</li>
+    <li>- Focus: ML modeling, LLM/agent systems, computer vision</li>
+    <li>- Strengths: problem decomposition, tool orchestration, production delivery</li>
+    <li>- Goal: dependable AI that works in real-world settings</li>
+  </ul>
+
+</div>
+---
 ### I’m Himanshu Saini, data scientist. I build end-to-end AI/ML pipelines. Currently I am working on SafeLaneVision (on-device computer vision) and an agentic code-generation debugger. My interests include ML modeling, LLM/agent systems and computer vision. I’m driven to build dependable AI: leveraging LLMs and multi-agent designs to break down complex problems, coordinate tools, and ship end-to-end solutions that work in the real world.
 ---
 ### **Languages and tools:**
