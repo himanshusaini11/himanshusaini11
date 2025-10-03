@@ -1,0 +1,14 @@
+# .github/workflows/profile-summary-cards.yml
+name: Profile Summary Cards
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs daily at midnight UTC
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: himanshusaini11
+          UTC_OFFSET: 0
+          THEME: github_dark
