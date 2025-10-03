@@ -5,13 +5,22 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # allow commits
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configure git author
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
@@ -19,4 +28,3 @@ jobs:
           BRANCH_NAME: main
           UTC_OFFSET: 0
           AUTO_PUSH: true
-          # THEME is not a valid input; choose theme via image path in README
