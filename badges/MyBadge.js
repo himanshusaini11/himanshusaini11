@@ -53,8 +53,8 @@ export function createBadgeWithLogo({
 
 // Badge with logo (uses local SVG)
 createBadgeWithLogo({
-  label: 'Matplotlib',
+  label: 'ReactNative',
   message: '',
-  logoPath: './logo/matplotlib-logo.svg',
-  outputFile: 'matplotlib-badge.svg'
+  logoPath: './logo/reactnative-logo.svg',
+  outputFile: 'reactnative-badge.svg'
 });
