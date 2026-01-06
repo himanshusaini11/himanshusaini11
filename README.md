@@ -14,9 +14,9 @@
 ### **Languages and tools:**
 | Programming                           | ML/AI/Data Skills                             | Tools                                 | Cloud                                        | Learning                                  |
 |---------------------------------------|-----------------------------------------------|---------------------------------------|-----------------------------------------------|-------------------------------------------|
-| ![Python](/badges/python-badge.svg)   | ![NumPy](/badges/numpy-badge.svg)             | ![FastAPI](/badges/fastapi-badge.svg) | ![Azure App Service](/badges/azure-badge.svg) | ![Snowflake](/badges/snowflake-badge.svg) |
-| ![SQL](/badges/sql-badge.svg)         | ![pandas](/badges/panda-badge.svg)            | ![Docker](/badges/docker-badge.svg)   |                                               | ![AWS](/badges/aws-badge.svg)             |
-| ![Bash](/badges/bash-badge.svg)       | ![Matplotlib](/badges/matplotlib-badge.svg)   | ![React Native](/badges/reactnative-badge.svg) |                              | ![Azure Databricks](/badges/databricks-badge.svg) |
+| ![Python](/badges/python-badge.svg)   | ![NumPy](/badges/numpy-badge.svg)             | ![FastAPI](/badges/fastapi-badge.svg) | ![AWS](/badges/aws-badge.svg)                 | ![Snowflake](/badges/snowflake-badge.svg) |
+| ![SQL](/badges/sql-badge.svg)         | ![pandas](/badges/panda-badge.svg)            | ![Docker](/badges/docker-badge.svg)   | ![Azure App Service](/badges/azure-badge.svg) | ![AWS](/badges/aws-badge.svg)             |
+| ![Bash](/badges/bash-badge.svg)       | ![Matplotlib](/badges/matplotlib-badge.svg)   | ![React Native](/badges/reactnative-badge.svg) |                                      | ![Azure Databricks](/badges/databricks-badge.svg) |
 | ![C++](/badges/C++-badge.svg)         | ![Seaborn](/badges/seaborn-badge.svg)         | ![GitHub](/badges/github-badge.svg)   |                                               |                                           |
 | ![MATLAB](/badges/matlab-badge.svg)   | ![scikit-learn](/badges/scikitlearn-badge.svg)|                                       |                                               |                                           |
 |                                       | ![TensorFlow](/badges/tensorflow-badge.svg)   |                                       |                                               |                                           |
